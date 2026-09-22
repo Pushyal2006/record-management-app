@@ -131,4 +131,4 @@ requirements specified in the assignment brief.
 
 ## 8. GitHub Repository
 
-Repository link: `<paste your GitHub repository URL here>`
+Repository link: `https://github.com/Pushyal2006/record-management-app`
