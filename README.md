@@ -160,7 +160,7 @@ The application handles common errors such as:
 
 ## Author
 
-**Name:** Your Name
+**Name:** Pushyal Poojari
 
 **Course:** MCA Semester I
 
